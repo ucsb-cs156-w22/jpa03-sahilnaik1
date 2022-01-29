@@ -1,7 +1,10 @@
 # demo-spring-react-example: dsre
 
-Storybook is here:
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sahilnaik1/branch/main/graph/badge.svg?token=WiRX5bTGIA)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sahilnaik1)
+
+Storybook is here:
+
+
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-sahilnaik1-docs/storybook>
 - QA: <https://ucsb-cs156-w22.github.io/jpa03-sahilnaik1-docs-qa/storybook>
