@@ -1,4 +1,7 @@
 # demo-spring-react-example: dsre
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sahilnaik1/branch/main/graph/badge.svg?token=WiRX5bTGIA)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sahilnaik1)
+
 Repository Links:
 
 - https://github.com/ucsb-cs156-w22/jpa03-sahilnaik1
@@ -8,7 +11,7 @@ Repository Links:
 Heroku Link:
 - https://jpa03-sahilnaik1.herokuapp.com/
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sahilnaik1/branch/main/graph/badge.svg?token=WiRX5bTGIA)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-sahilnaik1)
+
 
 Storybook is here:
 
